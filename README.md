@@ -41,6 +41,8 @@ brew install vim
 
 [Sublime Text](https://www.sublimetext.com/3)
 
+[https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)
+
 
 
 
