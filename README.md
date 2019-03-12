@@ -39,6 +39,8 @@ Git ignore template for java projects.
 brew install vim
 ```
 
+[Sublime](https://www.sublimetext.com/3)
+
 
 
 
