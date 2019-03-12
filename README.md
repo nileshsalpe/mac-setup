@@ -21,4 +21,9 @@ Install using following command
 brew cask install iterm2
 ```
 
+* #### [Tree](https://rschu.me/list-a-directory-with-tree-command-on-mac-os-x-3b2d4c4a4827)
+Tree command equivalent of linux is availble in Mac OS. It shows tree structure of directory.
+```
+brew install tree
+```
 
