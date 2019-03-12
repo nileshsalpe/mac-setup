@@ -29,6 +29,10 @@ brew install tree
 
 ```
 brew install git
+git --version
+git config --global user.name "Your Name Here"
+git config --global user.email "your_email@youremail.com"
+
 ```
 
 
