@@ -41,7 +41,22 @@ brew install vim
 
 [Sublime Text](https://www.sublimetext.com/3)
 
+### Java
+
 [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)
+
+
+### Pyhton 
+
+
+### Golang
+
+
+### Groovy
+
+### Scala 
+
+### Node JS
 
 
 
