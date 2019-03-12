@@ -12,3 +12,13 @@ Install using following command
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
+
+* #### [iTerm](https://www.iterm2.com/)
+
+**iTerm2**  is a replacement for Terminal and the successor to iTerm. It works on Macs with macOS 10.12 or newer. iTerm2 brings the terminal into the modern age with features you never knew you always wanted.
+
+```
+brew cask install iterm2
+```
+
+
