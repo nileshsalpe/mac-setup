@@ -41,6 +41,8 @@ Git ignore template for java projects.
 
 [Sublime Text](https://www.sublimetext.com/3)
 
+### Github Mac client
+
 ### Github pages
 
 ### Docker
