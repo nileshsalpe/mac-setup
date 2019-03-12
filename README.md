@@ -28,6 +28,10 @@ brew install tree
 ```
 
 ```
+brew install vim
+```
+
+```
 brew install git
 git --version
 git config --global user.name "Your Name Here"
@@ -35,11 +39,9 @@ git config --global user.email "your_email@youremail.com"
 ```
 Git ignore template for java projects.
 
-```
-brew install vim
-```
-
 [Sublime Text](https://www.sublimetext.com/3)
+
+### Github pages
 
 ### Docker
 
