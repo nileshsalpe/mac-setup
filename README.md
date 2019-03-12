@@ -27,3 +27,8 @@ Tree command equivalent of linux is availble in Mac OS. It shows tree structure 
 brew install tree
 ```
 
+```
+brew install git
+```
+
+
