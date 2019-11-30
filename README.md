@@ -49,6 +49,7 @@ Git ignore template for java projects.
 
 ### Docker
 
+https://docs.docker.com/docker-for-mac/install/
 
 ### Java
 
