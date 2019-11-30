@@ -53,19 +53,28 @@ Git ignore template for java projects.
 ### Java
 
 [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)
+[https://code.visualstudio.com](https://code.visualstudio.com)
 
 
 ### Pyhton 
+Install
+[https://docs.python-guide.org/starting/install3/osx/](https://docs.python-guide.org/starting/install3/osx/)
+[https://code.visualstudio.com](https://code.visualstudio.com)
+[https://www.jetbrains.com/pycharm/](https://www.jetbrains.com/pycharm/)
 
 
 ### Golang
+[https://code.visualstudio.com](https://code.visualstudio.com)
+[https://www.jetbrains.com/go/](https://www.jetbrains.com/go/)
 
 
 ### Groovy
+[https://code.visualstudio.com](https://code.visualstudio.com)
 
 ### Scala 
 
 ### Node JS
+[https://code.visualstudio.com](https://code.visualstudio.com)
 
 
 
