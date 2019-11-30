@@ -57,9 +57,10 @@ Git ignore template for java projects.
 
 
 ### Pyhton 
-Install
-[https://docs.python-guide.org/starting/install3/osx/](https://docs.python-guide.org/starting/install3/osx/)
+Install [Install python 3](https://docs.python-guide.org/starting/install3/osx/)
+
 [https://code.visualstudio.com](https://code.visualstudio.com)
+
 [https://www.jetbrains.com/pycharm/](https://www.jetbrains.com/pycharm/)
 
 
