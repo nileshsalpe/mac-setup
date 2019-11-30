@@ -52,6 +52,8 @@ Git ignore template for java projects.
 
 ### Java
 
+Install [https://www.oracle.com/technetwork/java/javase/downloads/index.html](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
+
 [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)
 [https://code.visualstudio.com](https://code.visualstudio.com)
 
