@@ -73,6 +73,13 @@ Install [Java ](https://www.oracle.com/technetwork/java/javase/downloads/index.h
 
 
 ### Pyhton 
+
+Check if exists  python3
+
+```
+python3 --version 
+```
+
 Install [Install python 3](https://docs.python-guide.org/starting/install3/osx/)
 
 [https://code.visualstudio.com](https://code.visualstudio.com)
