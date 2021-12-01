@@ -86,7 +86,8 @@ Install [Install python 3](https://docs.python-guide.org/starting/install3/osx/)
 ### IDEs
 
 All Languages (Java/Python/JS/Golang)
-[https://code.visualstudio.com](https://code.visualstudio.com)
+
+- [https://code.visualstudio.com](https://code.visualstudio.com)
 
 For Python 
 - Set up sublime for Python/Java Script
