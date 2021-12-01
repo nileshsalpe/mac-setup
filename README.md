@@ -2,6 +2,19 @@
 
 List of  essential softwares for development on new mac book.
 
+## Create bash profile file
+
+```
+touch ~/.bash_profile
+
+```
+You can add aliases, path in this file 
+
+```
+ source ~/.bash_profile
+ 
+```
+
 
 ## List of essential softwares
 
