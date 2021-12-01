@@ -82,10 +82,18 @@ python3 --version
 
 Install [Install python 3](https://docs.python-guide.org/starting/install3/osx/)
 
+
+### IDES
+
+All Languages (Java/Python/JS/Golang)
 [https://code.visualstudio.com](https://code.visualstudio.com)
 
-[https://www.jetbrains.com/pycharm/](https://www.jetbrains.com/pycharm/)
+For Python 
+- Set up sublime for Python/Java Script
+- [https://www.jetbrains.com/pycharm/](https://www.jetbrains.com/pycharm/)
 
+For Java 
+- [Intellij](https://www.jetbrains.com/idea/download/#section=mac)
 
 ### Golang
 [https://code.visualstudio.com](https://code.visualstudio.com)
