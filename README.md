@@ -83,7 +83,7 @@ python3 --version
 Install [Install python 3](https://docs.python-guide.org/starting/install3/osx/)
 
 
-### IDES
+### IDEs
 
 All Languages (Java/Python/JS/Golang)
 [https://code.visualstudio.com](https://code.visualstudio.com)
