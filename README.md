@@ -68,6 +68,22 @@ https://docs.docker.com/docker-for-mac/install/
 
 Install [Java ](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
+#### Install Maven 
+
+```
+
+curl https://archive.apache.org/dist/maven/maven-3/3.6.2/binaries/apache-maven-3.6.2-bin.tar.gz -o /Downloads/apache-maven-3.6.2-bin.tar.gz
+tar -xvf ~/Downloads/apache-maven-3.6.3-bin.tar.gz -C ~/Downloads/
+sudo mv ~/Downloads/apache-maven-3.6.3 /Library/apache-maven-3.6.3
+ 
+ vi .bash_profile 
+ 
+export MAVEN_HOME=/Library/apache-maven-3.6.3
+export PATH=$MAVEN_HOME/bin:$PATH
+
+```
+
+
 [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)
 [https://code.visualstudio.com](https://code.visualstudio.com)
 
